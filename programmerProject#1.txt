@@ -3,6 +3,9 @@ using namespace std;
 
 void main() {
 	int a1 = 10;
+	if (a1 > 0) {
+		cout << a1, "is positive number" << endl;
+	}
 	int a2 = 15;
 	int a3 = 20;
 	cout << "labaratory #", a1, a2, a3 << endl;
