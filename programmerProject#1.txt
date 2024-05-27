@@ -2,6 +2,6 @@
 using namespace std;
 
 void main() {
-	int a = 10;
-	cout << "labaratory #", a << endl;
+	int a1 = 10;
+	cout << "labaratory #", a1 << endl;
 }
